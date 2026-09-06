@@ -1,0 +1,562 @@
+[
+  {
+    "query_id": "q01",
+    "query": "What schemes are available for farmers with less than 2 acres of land?",
+    "language": "en",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "1_1",
+        "scheme_name": "pradhan mantri kisan samman nidhi (pm-kisan)",
+        "section": "eligibility",
+        "score": 0.6061
+      },
+      {
+        "rank": 2,
+        "chunk_id": "14_1",
+        "scheme_name": "pradhan mantri fasal bima yojana (pmfby)",
+        "section": "eligibility",
+        "score": 0.6019
+      },
+      {
+        "rank": 3,
+        "chunk_id": "14_4",
+        "scheme_name": "pradhan mantri fasal bima yojana (pmfby)",
+        "section": "coverage_category",
+        "score": 0.5481
+      }
+    ]
+  },
+  {
+    "query_id": "q02",
+    "query": "Is there any scholarship for SC/ST students in college?",
+    "language": "en",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "7_2",
+        "scheme_name": "pradhan mantri vishwakarma",
+        "section": "benefits",
+        "score": 0.359
+      },
+      {
+        "rank": 2,
+        "chunk_id": "12_4",
+        "scheme_name": "sukanya samriddhi account (ssa)",
+        "section": "coverage_category",
+        "score": 0.3086
+      },
+      {
+        "rank": 3,
+        "chunk_id": "15_1",
+        "scheme_name": "stand-up india",
+        "section": "eligibility",
+        "score": 0.2972
+      }
+    ]
+  },
+  {
+    "query_id": "q03",
+    "query": "What is the eligibility for the PM Awas Yojana housing scheme?",
+    "language": "en",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "4_1",
+        "scheme_name": "pradhan mantri awas yojana gramin (pmay-g)",
+        "section": "eligibility",
+        "score": 0.7187
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3_1",
+        "scheme_name": "pradhan mantri awas yojana urban (pmay-u 2.0)",
+        "section": "eligibility",
+        "score": 0.7029
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2_1",
+        "scheme_name": "ayushman bharat pradhan mantri jan arogya yojana (pm-jay)",
+        "section": "eligibility",
+        "score": 0.6909
+      }
+    ]
+  },
+  {
+    "query_id": "q04",
+    "query": "Are there pension schemes for senior citizens above 60?",
+    "language": "en",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "9_2",
+        "scheme_name": "atal pension yojana (apy)",
+        "section": "benefits",
+        "score": 0.688
+      },
+      {
+        "rank": 2,
+        "chunk_id": "9_3",
+        "scheme_name": "atal pension yojana (apy)",
+        "section": "age_income",
+        "score": 0.6581
+      },
+      {
+        "rank": 3,
+        "chunk_id": "9_4",
+        "scheme_name": "atal pension yojana (apy)",
+        "section": "coverage_category",
+        "score": 0.5597
+      }
+    ]
+  },
+  {
+    "query_id": "q05",
+    "query": "What documents are needed to apply for Ayushman Bharat health insurance?",
+    "language": "en",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "7_5",
+        "scheme_name": "pradhan mantri vishwakarma",
+        "section": "application",
+        "score": 0.6313
+      },
+      {
+        "rank": 2,
+        "chunk_id": "11_4",
+        "scheme_name": "pradhan mantri jeevan jyoti bima yojana (pmjjby)",
+        "section": "coverage_category",
+        "score": 0.6196
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2_5",
+        "scheme_name": "ayushman bharat pradhan mantri jan arogya yojana (pm-jay)",
+        "section": "application",
+        "score": 0.6076
+      }
+    ]
+  },
+  {
+    "query_id": "q06",
+    "query": "Is there a scheme for women entrepreneurs starting a small business?",
+    "language": "en",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "15_1",
+        "scheme_name": "stand-up india",
+        "section": "eligibility",
+        "score": 0.6018
+      },
+      {
+        "rank": 2,
+        "chunk_id": "8_1",
+        "scheme_name": "pradhan mantri mudra yojana (pmmy)",
+        "section": "eligibility",
+        "score": 0.487
+      },
+      {
+        "rank": 3,
+        "chunk_id": "13_1",
+        "scheme_name": "pradhan mantri matru vandana yojana (pmmvy)",
+        "section": "eligibility",
+        "score": 0.4676
+      }
+    ]
+  },
+  {
+    "query_id": "q07",
+    "query": "What is the income limit to apply for LPG subsidy under Ujjwala Yojana?",
+    "language": "en",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "3_2",
+        "scheme_name": "pradhan mantri awas yojana urban (pmay-u 2.0)",
+        "section": "benefits",
+        "score": 0.6489
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3_3",
+        "scheme_name": "pradhan mantri awas yojana urban (pmay-u 2.0)",
+        "section": "age_income",
+        "score": 0.6363
+      },
+      {
+        "rank": 3,
+        "chunk_id": "5_3",
+        "scheme_name": "pradhan mantri ujjwala yojana (pmuy)",
+        "section": "age_income",
+        "score": 0.6308
+      }
+    ]
+  },
+  {
+    "query_id": "q08",
+    "query": "Are there free skill training programs for unemployed youth?",
+    "language": "en",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "7_2",
+        "scheme_name": "pradhan mantri vishwakarma",
+        "section": "benefits",
+        "score": 0.4382
+      },
+      {
+        "rank": 2,
+        "chunk_id": "7_3",
+        "scheme_name": "pradhan mantri vishwakarma",
+        "section": "age_income",
+        "score": 0.341
+      },
+      {
+        "rank": 3,
+        "chunk_id": "11_3",
+        "scheme_name": "pradhan mantri jeevan jyoti bima yojana (pmjjby)",
+        "section": "age_income",
+        "score": 0.3338
+      }
+    ]
+  },
+  {
+    "query_id": "q09",
+    "query": "What financial help is available during pregnancy under government schemes?",
+    "language": "en",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "13_3",
+        "scheme_name": "pradhan mantri matru vandana yojana (pmmvy)",
+        "section": "age_income",
+        "score": 0.6351
+      },
+      {
+        "rank": 2,
+        "chunk_id": "13_1",
+        "scheme_name": "pradhan mantri matru vandana yojana (pmmvy)",
+        "section": "eligibility",
+        "score": 0.6338
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2_2",
+        "scheme_name": "ayushman bharat pradhan mantri jan arogya yojana (pm-jay)",
+        "section": "benefits",
+        "score": 0.572
+      }
+    ]
+  },
+  {
+    "query_id": "q10",
+    "query": "How can I get a loan for setting up a small business without collateral?",
+    "language": "en",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "8_1",
+        "scheme_name": "pradhan mantri mudra yojana (pmmy)",
+        "section": "eligibility",
+        "score": 0.6038
+      },
+      {
+        "rank": 2,
+        "chunk_id": "8_2",
+        "scheme_name": "pradhan mantri mudra yojana (pmmy)",
+        "section": "benefits",
+        "score": 0.5359
+      },
+      {
+        "rank": 3,
+        "chunk_id": "6_2",
+        "scheme_name": "pradhan mantri street vendor s atmanirbhar nidhi (pm svanidhi)",
+        "section": "benefits",
+        "score": 0.5027
+      }
+    ]
+  },
+  {
+    "query_id": "q11",
+    "query": "किसानों के लिए कौन सी सरकारी योजनाएं उपलब्ध हैं?",
+    "language": "hi",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "14_1",
+        "scheme_name": "pradhan mantri fasal bima yojana (pmfby)",
+        "section": "eligibility",
+        "score": 0.6364
+      },
+      {
+        "rank": 2,
+        "chunk_id": "14_4",
+        "scheme_name": "pradhan mantri fasal bima yojana (pmfby)",
+        "section": "coverage_category",
+        "score": 0.6316
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1_1",
+        "scheme_name": "pradhan mantri kisan samman nidhi (pm-kisan)",
+        "section": "eligibility",
+        "score": 0.5643
+      }
+    ]
+  },
+  {
+    "query_id": "q12",
+    "query": "एससी/एसटी छात्रों के लिए छात्रवृत्ति योजना क्या है?",
+    "language": "hi",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "12_4",
+        "scheme_name": "sukanya samriddhi account (ssa)",
+        "section": "coverage_category",
+        "score": 0.475
+      },
+      {
+        "rank": 2,
+        "chunk_id": "7_2",
+        "scheme_name": "pradhan mantri vishwakarma",
+        "section": "benefits",
+        "score": 0.4615
+      },
+      {
+        "rank": 3,
+        "chunk_id": "12_3",
+        "scheme_name": "sukanya samriddhi account (ssa)",
+        "section": "age_income",
+        "score": 0.4491
+      }
+    ]
+  },
+  {
+    "query_id": "q13",
+    "query": "प्रधानमंत्री आवास योजना की पात्रता क्या है?",
+    "language": "hi",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "3_2",
+        "scheme_name": "pradhan mantri awas yojana urban (pmay-u 2.0)",
+        "section": "benefits",
+        "score": 0.59
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3_1",
+        "scheme_name": "pradhan mantri awas yojana urban (pmay-u 2.0)",
+        "section": "eligibility",
+        "score": 0.5722
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4_1",
+        "scheme_name": "pradhan mantri awas yojana gramin (pmay-g)",
+        "section": "eligibility",
+        "score": 0.5537
+      }
+    ]
+  },
+  {
+    "query_id": "q14",
+    "query": "60 वर्ष से अधिक आयु के वरिष्ठ नागरिकों के लिए पेंशन योजना कौन सी है?",
+    "language": "hi",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "9_2",
+        "scheme_name": "atal pension yojana (apy)",
+        "section": "benefits",
+        "score": 0.6968
+      },
+      {
+        "rank": 2,
+        "chunk_id": "9_3",
+        "scheme_name": "atal pension yojana (apy)",
+        "section": "age_income",
+        "score": 0.6486
+      },
+      {
+        "rank": 3,
+        "chunk_id": "9_4",
+        "scheme_name": "atal pension yojana (apy)",
+        "section": "coverage_category",
+        "score": 0.5612
+      }
+    ]
+  },
+  {
+    "query_id": "q15",
+    "query": "आयुष्मान भारत योजना के लिए कौन से दस्तावेज़ चाहिए?",
+    "language": "hi",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "11_4",
+        "scheme_name": "pradhan mantri jeevan jyoti bima yojana (pmjjby)",
+        "section": "coverage_category",
+        "score": 0.6283
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2_4",
+        "scheme_name": "ayushman bharat pradhan mantri jan arogya yojana (pm-jay)",
+        "section": "coverage_category",
+        "score": 0.6241
+      },
+      {
+        "rank": 3,
+        "chunk_id": "8_3",
+        "scheme_name": "pradhan mantri mudra yojana (pmmy)",
+        "section": "age_income",
+        "score": 0.5839
+      }
+    ]
+  },
+  {
+    "query_id": "q16",
+    "query": "महिला उद्यमियों के लिए व्यवसाय शुरू करने की कोई योजना है क्या?",
+    "language": "hi",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "15_1",
+        "scheme_name": "stand-up india",
+        "section": "eligibility",
+        "score": 0.5325
+      },
+      {
+        "rank": 2,
+        "chunk_id": "15_4",
+        "scheme_name": "stand-up india",
+        "section": "coverage_category",
+        "score": 0.3987
+      },
+      {
+        "rank": 3,
+        "chunk_id": "13_1",
+        "scheme_name": "pradhan mantri matru vandana yojana (pmmvy)",
+        "section": "eligibility",
+        "score": 0.388
+      }
+    ]
+  },
+  {
+    "query_id": "q17",
+    "query": "उज्ज्वला योजना के तहत एलपीजी सब्सिडी के लिए आय सीमा क्या है?",
+    "language": "hi",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "9_3",
+        "scheme_name": "atal pension yojana (apy)",
+        "section": "age_income",
+        "score": 0.5513
+      },
+      {
+        "rank": 2,
+        "chunk_id": "9_2",
+        "scheme_name": "atal pension yojana (apy)",
+        "section": "benefits",
+        "score": 0.5383
+      },
+      {
+        "rank": 3,
+        "chunk_id": "8_3",
+        "scheme_name": "pradhan mantri mudra yojana (pmmy)",
+        "section": "age_income",
+        "score": 0.5335
+      }
+    ]
+  },
+  {
+    "query_id": "q18",
+    "query": "बेरोजगार युवाओं के लिए मुफ्त कौशल प्रशिक्षण कार्यक्रम कौन सा है?",
+    "language": "hi",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "7_2",
+        "scheme_name": "pradhan mantri vishwakarma",
+        "section": "benefits",
+        "score": 0.4662
+      },
+      {
+        "rank": 2,
+        "chunk_id": "7_3",
+        "scheme_name": "pradhan mantri vishwakarma",
+        "section": "age_income",
+        "score": 0.3449
+      },
+      {
+        "rank": 3,
+        "chunk_id": "15_1",
+        "scheme_name": "stand-up india",
+        "section": "eligibility",
+        "score": 0.3386
+      }
+    ]
+  },
+  {
+    "query_id": "q19",
+    "query": "गर्भावस्था के दौरान सरकारी योजना के तहत क्या आर्थिक सहायता मिलती है?",
+    "language": "hi",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "13_1",
+        "scheme_name": "pradhan mantri matru vandana yojana (pmmvy)",
+        "section": "eligibility",
+        "score": 0.5941
+      },
+      {
+        "rank": 2,
+        "chunk_id": "13_3",
+        "scheme_name": "pradhan mantri matru vandana yojana (pmmvy)",
+        "section": "age_income",
+        "score": 0.5882
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2_2",
+        "scheme_name": "ayushman bharat pradhan mantri jan arogya yojana (pm-jay)",
+        "section": "benefits",
+        "score": 0.5311
+      }
+    ]
+  },
+  {
+    "query_id": "q20",
+    "query": "बिना गारंटी के छोटे व्यवसाय के लिए ऋण कैसे मिल सकता है?",
+    "language": "hi",
+    "top_matches": [
+      {
+        "rank": 1,
+        "chunk_id": "8_1",
+        "scheme_name": "pradhan mantri mudra yojana (pmmy)",
+        "section": "eligibility",
+        "score": 0.6411
+      },
+      {
+        "rank": 2,
+        "chunk_id": "8_2",
+        "scheme_name": "pradhan mantri mudra yojana (pmmy)",
+        "section": "benefits",
+        "score": 0.549
+      },
+      {
+        "rank": 3,
+        "chunk_id": "6_2",
+        "scheme_name": "pradhan mantri street vendor s atmanirbhar nidhi (pm svanidhi)",
+        "section": "benefits",
+        "score": 0.4979
+      }
+    ]
+  }
+]

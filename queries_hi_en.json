@@ -1,0 +1,22 @@
+[
+  {"id": "q01", "language": "en", "text": "What schemes are available for farmers with less than 2 acres of land?"},
+  {"id": "q02", "language": "en", "text": "Is there any scholarship for SC/ST students in college?"},
+  {"id": "q03", "language": "en", "text": "What is the eligibility for the PM Awas Yojana housing scheme?"},
+  {"id": "q04", "language": "en", "text": "Are there pension schemes for senior citizens above 60?"},
+  {"id": "q05", "language": "en", "text": "What documents are needed to apply for Ayushman Bharat health insurance?"},
+  {"id": "q06", "language": "en", "text": "Is there a scheme for women entrepreneurs starting a small business?"},
+  {"id": "q07", "language": "en", "text": "What is the income limit to apply for LPG subsidy under Ujjwala Yojana?"},
+  {"id": "q08", "language": "en", "text": "Are there free skill training programs for unemployed youth?"},
+  {"id": "q09", "language": "en", "text": "What financial help is available during pregnancy under government schemes?"},
+  {"id": "q10", "language": "en", "text": "How can I get a loan for setting up a small business without collateral?"},
+  {"id": "q11", "language": "hi", "text": "किसानों के लिए कौन सी सरकारी योजनाएं उपलब्ध हैं?"},
+  {"id": "q12", "language": "hi", "text": "एससी/एसटी छात्रों के लिए छात्रवृत्ति योजना क्या है?"},
+  {"id": "q13", "language": "hi", "text": "प्रधानमंत्री आवास योजना की पात्रता क्या है?"},
+  {"id": "q14", "language": "hi", "text": "60 वर्ष से अधिक आयु के वरिष्ठ नागरिकों के लिए पेंशन योजना कौन सी है?"},
+  {"id": "q15", "language": "hi", "text": "आयुष्मान भारत योजना के लिए कौन से दस्तावेज़ चाहिए?"},
+  {"id": "q16", "language": "hi", "text": "महिला उद्यमियों के लिए व्यवसाय शुरू करने की कोई योजना है क्या?"},
+  {"id": "q17", "language": "hi", "text": "उज्ज्वला योजना के तहत एलपीजी सब्सिडी के लिए आय सीमा क्या है?"},
+  {"id": "q18", "language": "hi", "text": "बेरोजगार युवाओं के लिए मुफ्त कौशल प्रशिक्षण कार्यक्रम कौन सा है?"},
+  {"id": "q19", "language": "hi", "text": "गर्भावस्था के दौरान सरकारी योजना के तहत क्या आर्थिक सहायता मिलती है?"},
+  {"id": "q20", "language": "hi", "text": "बिना गारंटी के छोटे व्यवसाय के लिए ऋण कैसे मिल सकता है?"}
+]

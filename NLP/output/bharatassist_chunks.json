@@ -1,0 +1,452 @@
+[
+    {
+        "chunk_id":"1_1",
+        "scheme":"pradhan mantri kisan samman nidhi (pm-kisan)",
+        "section":"eligibility",
+        "text":"Scheme: pradhan mantri kisan samman nidhi (pm-kisan). Eligibility: landholding farmer families meeting scheme conditions institutional landholders, income-tax payers and specified higher-economic-status categories are excluded."
+    },
+    {
+        "chunk_id":"1_2",
+        "scheme":"pradhan mantri kisan samman nidhi (pm-kisan)",
+        "section":"benefits",
+        "text":"Scheme: pradhan mantri kisan samman nidhi (pm-kisan). Benefits: ₹6,000 per year in 3 equal instalments through dbt."
+    },
+    {
+        "chunk_id":"1_3",
+        "scheme":"pradhan mantri kisan samman nidhi (pm-kisan)",
+        "section":"age_income",
+        "text":"Scheme: pradhan mantri kisan samman nidhi (pm-kisan). Age requirement: no fixed age limit stated. Income requirement: no fixed income ceiling income-tax payers are excluded."
+    },
+    {
+        "chunk_id":"1_4",
+        "scheme":"pradhan mantri kisan samman nidhi (pm-kisan)",
+        "section":"coverage_category",
+        "text":"Scheme: pradhan mantri kisan samman nidhi (pm-kisan). State or coverage: all india. Category: farmers \/ agriculture"
+    },
+    {
+        "chunk_id":"1_5",
+        "scheme":"pradhan mantri kisan samman nidhi (pm-kisan)",
+        "section":"application",
+        "text":"Scheme: pradhan mantri kisan samman nidhi (pm-kisan). Application process: online farmer registration on pm-kisan portal state\/ut verification and ekyc."
+    },
+    {
+        "chunk_id":"2_1",
+        "scheme":"ayushman bharat pradhan mantri jan arogya yojana (pm-jay)",
+        "section":"eligibility",
+        "text":"Scheme: ayushman bharat pradhan mantri jan arogya yojana (pm-jay). Eligibility: eligible poor\/vulnerable households identified under scheme criteria eligibility includes specified rural deprivation and urban occupational categories."
+    },
+    {
+        "chunk_id":"2_2",
+        "scheme":"ayushman bharat pradhan mantri jan arogya yojana (pm-jay)",
+        "section":"benefits",
+        "text":"Scheme: ayushman bharat pradhan mantri jan arogya yojana (pm-jay). Benefits: cashless hospitalisation cover up to ₹5 lakh per family per year."
+    },
+    {
+        "chunk_id":"2_3",
+        "scheme":"ayushman bharat pradhan mantri jan arogya yojana (pm-jay)",
+        "section":"age_income",
+        "text":"Scheme: ayushman bharat pradhan mantri jan arogya yojana (pm-jay). Age requirement: no fixed age limit. Income requirement: no single income ceiling eligibility is based mainly on deprivation\/occupational criteria."
+    },
+    {
+        "chunk_id":"2_4",
+        "scheme":"ayushman bharat pradhan mantri jan arogya yojana (pm-jay)",
+        "section":"coverage_category",
+        "text":"Scheme: ayushman bharat pradhan mantri jan arogya yojana (pm-jay). State or coverage: all india. Category: health \/ low-income & vulnerable households"
+    },
+    {
+        "chunk_id":"2_5",
+        "scheme":"ayushman bharat pradhan mantri jan arogya yojana (pm-jay)",
+        "section":"application",
+        "text":"Scheme: ayushman bharat pradhan mantri jan arogya yojana (pm-jay). Application process: check eligibility through pm-jay\/myscheme and use an empanelled hospital."
+    },
+    {
+        "chunk_id":"3_1",
+        "scheme":"pradhan mantri awas yojana urban (pmay-u 2.0)",
+        "section":"eligibility",
+        "text":"Scheme: pradhan mantri awas yojana urban (pmay-u 2.0). Eligibility: urban households in ews\/lig\/mig categories meeting housing and other conditions family must not own a pucca house."
+    },
+    {
+        "chunk_id":"3_2",
+        "scheme":"pradhan mantri awas yojana urban (pmay-u 2.0)",
+        "section":"benefits",
+        "text":"Scheme: pradhan mantri awas yojana urban (pmay-u 2.0). Benefits: housing assistance\/subsidy depending on component central assistance can reach ₹2.50 lakh\/unit in specified cases and home-loan subsidy up to ₹1.80 lakh under iss."
+    },
+    {
+        "chunk_id":"3_3",
+        "scheme":"pradhan mantri awas yojana urban (pmay-u 2.0)",
+        "section":"age_income",
+        "text":"Scheme: pradhan mantri awas yojana urban (pmay-u 2.0). Age requirement: no fixed age limit stated. Income requirement: ews up to ₹3 lakh lig ₹3 6 lakh mig-i ₹6 12 lakh mig-ii ₹12 18 lakh annual household income."
+    },
+    {
+        "chunk_id":"3_4",
+        "scheme":"pradhan mantri awas yojana urban (pmay-u 2.0)",
+        "section":"coverage_category",
+        "text":"Scheme: pradhan mantri awas yojana urban (pmay-u 2.0). State or coverage: eligible urban towns\/cities across india. Category: housing \/ ews-lig-mig"
+    },
+    {
+        "chunk_id":"3_5",
+        "scheme":"pradhan mantri awas yojana urban (pmay-u 2.0)",
+        "section":"application",
+        "text":"Scheme: pradhan mantri awas yojana urban (pmay-u 2.0). Application process: online registration through pmay-u 2.0 portal followed by eligibility check and beneficiary survey."
+    },
+    {
+        "chunk_id":"4_1",
+        "scheme":"pradhan mantri awas yojana gramin (pmay-g)",
+        "section":"eligibility",
+        "text":"Scheme: pradhan mantri awas yojana gramin (pmay-g). Eligibility: eligible rural houseless households and households living in kutcha\/dilapidated houses identified through the scheme s deprivation and exclusion criteria."
+    },
+    {
+        "chunk_id":"4_2",
+        "scheme":"pradhan mantri awas yojana gramin (pmay-g)",
+        "section":"benefits",
+        "text":"Scheme: pradhan mantri awas yojana gramin (pmay-g). Benefits: ₹1.20 lakh unit assistance in plain areas and ₹1.30 lakh in north-east\/hill areas, with basic amenities."
+    },
+    {
+        "chunk_id":"4_3",
+        "scheme":"pradhan mantri awas yojana gramin (pmay-g)",
+        "section":"age_income",
+        "text":"Scheme: pradhan mantri awas yojana gramin (pmay-g). Age requirement: no fixed age limit stated. Income requirement: household exclusion checks include earning above ₹15,000\/month and other economic criteria."
+    },
+    {
+        "chunk_id":"4_4",
+        "scheme":"pradhan mantri awas yojana gramin (pmay-g)",
+        "section":"coverage_category",
+        "text":"Scheme: pradhan mantri awas yojana gramin (pmay-g). State or coverage: rural areas across india. Category: housing \/ rural poor"
+    },
+    {
+        "chunk_id":"4_5",
+        "scheme":"pradhan mantri awas yojana gramin (pmay-g)",
+        "section":"application",
+        "text":"Scheme: pradhan mantri awas yojana gramin (pmay-g). Application process: identification through secc\/awaas+ processes, gram sabha\/state verification and scheme portal processes."
+    },
+    {
+        "chunk_id":"5_1",
+        "scheme":"pradhan mantri ujjwala yojana (pmuy)",
+        "section":"eligibility",
+        "text":"Scheme: pradhan mantri ujjwala yojana (pmuy). Eligibility: adult woman aged 18+ from an eligible poor household no other lpg connection should exist in the household."
+    },
+    {
+        "chunk_id":"5_2",
+        "scheme":"pradhan mantri ujjwala yojana (pmuy)",
+        "section":"benefits",
+        "text":"Scheme: pradhan mantri ujjwala yojana (pmuy). Benefits: deposit-free lpg connection support and related connection benefits under pmuy."
+    },
+    {
+        "chunk_id":"5_3",
+        "scheme":"pradhan mantri ujjwala yojana (pmuy)",
+        "section":"age_income",
+        "text":"Scheme: pradhan mantri ujjwala yojana (pmuy). Age requirement: 18+ years. Income requirement: poor-household\/deprivation criteria no single universal income threshold stated on the official pmuy eligibility page."
+    },
+    {
+        "chunk_id":"5_4",
+        "scheme":"pradhan mantri ujjwala yojana (pmuy)",
+        "section":"coverage_category",
+        "text":"Scheme: pradhan mantri ujjwala yojana (pmuy). State or coverage: all india. Category: women \/ clean cooking fuel \/ poor households"
+    },
+    {
+        "chunk_id":"5_5",
+        "scheme":"pradhan mantri ujjwala yojana (pmuy)",
+        "section":"application",
+        "text":"Scheme: pradhan mantri ujjwala yojana (pmuy). Application process: apply through an lpg distributor or pmuy online application route with required documents."
+    },
+    {
+        "chunk_id":"6_1",
+        "scheme":"pradhan mantri street vendor s atmanirbhar nidhi (pm svanidhi)",
+        "section":"eligibility",
+        "text":"Scheme: pradhan mantri street vendor s atmanirbhar nidhi (pm svanidhi). Eligibility: street vendors eligible under the scheme\/ulb or survey\/lor requirements."
+    },
+    {
+        "chunk_id":"6_2",
+        "scheme":"pradhan mantri street vendor s atmanirbhar nidhi (pm svanidhi)",
+        "section":"benefits",
+        "text":"Scheme: pradhan mantri street vendor s atmanirbhar nidhi (pm svanidhi). Benefits: collateral-free working-capital loans up to ₹15,000, ₹25,000 and ₹50,000 in progressive tranches interest subsidy and digital incentives."
+    },
+    {
+        "chunk_id":"6_3",
+        "scheme":"pradhan mantri street vendor s atmanirbhar nidhi (pm svanidhi)",
+        "section":"age_income",
+        "text":"Scheme: pradhan mantri street vendor s atmanirbhar nidhi (pm svanidhi). Age requirement: typically 18+ for lending. Income requirement: no fixed income ceiling stated."
+    },
+    {
+        "chunk_id":"6_4",
+        "scheme":"pradhan mantri street vendor s atmanirbhar nidhi (pm svanidhi)",
+        "section":"coverage_category",
+        "text":"Scheme: pradhan mantri street vendor s atmanirbhar nidhi (pm svanidhi). State or coverage: urban, census-town and eligible peri-urban areas across india. Category: street vendors \/ livelihood"
+    },
+    {
+        "chunk_id":"6_5",
+        "scheme":"pradhan mantri street vendor s atmanirbhar nidhi (pm svanidhi)",
+        "section":"application",
+        "text":"Scheme: pradhan mantri street vendor s atmanirbhar nidhi (pm svanidhi). Application process: apply through pm svanidhi portal, participating banks\/ulbs\/authorized channels."
+    },
+    {
+        "chunk_id":"7_1",
+        "scheme":"pradhan mantri vishwakarma",
+        "section":"eligibility",
+        "text":"Scheme: pradhan mantri vishwakarma. Eligibility: artisans\/craftspeople working with hands and tools in one of 18 specified traditional trades registration\/verification through the scheme process."
+    },
+    {
+        "chunk_id":"7_2",
+        "scheme":"pradhan mantri vishwakarma",
+        "section":"benefits",
+        "text":"Scheme: pradhan mantri vishwakarma. Benefits: certificate\/id, skill training with stipend, toolkit incentive up to ₹15,000, collateral-free credit up to ₹1 lakh and ₹2 lakh at concessional interest, plus digital\/marketing support."
+    },
+    {
+        "chunk_id":"7_3",
+        "scheme":"pradhan mantri vishwakarma",
+        "section":"age_income",
+        "text":"Scheme: pradhan mantri vishwakarma. Age requirement: 18+ years. Income requirement: no fixed income ceiling stated."
+    },
+    {
+        "chunk_id":"7_4",
+        "scheme":"pradhan mantri vishwakarma",
+        "section":"coverage_category",
+        "text":"Scheme: pradhan mantri vishwakarma. State or coverage: all india. Category: artisans \/ craftspeople \/ msme livelihood"
+    },
+    {
+        "chunk_id":"7_5",
+        "scheme":"pradhan mantri vishwakarma",
+        "section":"application",
+        "text":"Scheme: pradhan mantri vishwakarma. Application process: registration through common service centres using the pm vishwakarma portal and biometric verification."
+    },
+    {
+        "chunk_id":"8_1",
+        "scheme":"pradhan mantri mudra yojana (pmmy)",
+        "section":"eligibility",
+        "text":"Scheme: pradhan mantri mudra yojana (pmmy). Eligibility: micro enterprises needing institutional credit for eligible non-farm and allied activities lending subject to participating lender rules."
+    },
+    {
+        "chunk_id":"8_2",
+        "scheme":"pradhan mantri mudra yojana (pmmy)",
+        "section":"benefits",
+        "text":"Scheme: pradhan mantri mudra yojana (pmmy). Benefits: collateral-free micro-enterprise credit: shishu up to ₹50,000 kishore ₹50,000 ₹5 lakh tarun ₹5 ₹10 lakh tarun plus above ₹10 lakh up to ₹20 lakh for eligible repeat borrowers."
+    },
+    {
+        "chunk_id":"8_3",
+        "scheme":"pradhan mantri mudra yojana (pmmy)",
+        "section":"age_income",
+        "text":"Scheme: pradhan mantri mudra yojana (pmmy). Age requirement: no fixed age limit stated. Income requirement: no universal income ceiling stated."
+    },
+    {
+        "chunk_id":"8_4",
+        "scheme":"pradhan mantri mudra yojana (pmmy)",
+        "section":"coverage_category",
+        "text":"Scheme: pradhan mantri mudra yojana (pmmy). State or coverage: all india. Category: micro-enterprises \/ entrepreneurs"
+    },
+    {
+        "chunk_id":"8_5",
+        "scheme":"pradhan mantri mudra yojana (pmmy)",
+        "section":"application",
+        "text":"Scheme: pradhan mantri mudra yojana (pmmy). Application process: apply through participating banks, nbfcs, mfis and other member lending institutions."
+    },
+    {
+        "chunk_id":"9_1",
+        "scheme":"atal pension yojana (apy)",
+        "section":"eligibility",
+        "text":"Scheme: atal pension yojana (apy). Eligibility: indian citizen with savings bank\/post-office savings account meeting apy conditions."
+    },
+    {
+        "chunk_id":"9_2",
+        "scheme":"atal pension yojana (apy)",
+        "section":"benefits",
+        "text":"Scheme: atal pension yojana (apy). Benefits: guaranteed minimum pension of ₹1,000 ₹5,000 per month from age 60, depending on contribution spouse and nominee benefits also apply."
+    },
+    {
+        "chunk_id":"9_3",
+        "scheme":"atal pension yojana (apy)",
+        "section":"age_income",
+        "text":"Scheme: atal pension yojana (apy). Age requirement: 18 40 years at entry. Income requirement: no fixed income ceiling current tax-payer restrictions apply to new subscribers under prevailing rules."
+    },
+    {
+        "chunk_id":"9_4",
+        "scheme":"atal pension yojana (apy)",
+        "section":"coverage_category",
+        "text":"Scheme: atal pension yojana (apy). State or coverage: all india. Category: pension \/ unorganised-sector workers"
+    },
+    {
+        "chunk_id":"9_5",
+        "scheme":"atal pension yojana (apy)",
+        "section":"application",
+        "text":"Scheme: atal pension yojana (apy). Application process: enroll through participating bank\/post office using apy enrolment process."
+    },
+    {
+        "chunk_id":"10_1",
+        "scheme":"pradhan mantri suraksha bima yojana (pmsby)",
+        "section":"eligibility",
+        "text":"Scheme: pradhan mantri suraksha bima yojana (pmsby). Eligibility: individual account holder of a participating bank\/post office."
+    },
+    {
+        "chunk_id":"10_2",
+        "scheme":"pradhan mantri suraksha bima yojana (pmsby)",
+        "section":"benefits",
+        "text":"Scheme: pradhan mantri suraksha bima yojana (pmsby). Benefits: accidental death\/total disability cover ₹2 lakh specified partial disability ₹1 lakh premium ₹20\/year."
+    },
+    {
+        "chunk_id":"10_3",
+        "scheme":"pradhan mantri suraksha bima yojana (pmsby)",
+        "section":"age_income",
+        "text":"Scheme: pradhan mantri suraksha bima yojana (pmsby). Age requirement: 18 70 years. Income requirement: no income ceiling stated."
+    },
+    {
+        "chunk_id":"10_4",
+        "scheme":"pradhan mantri suraksha bima yojana (pmsby)",
+        "section":"coverage_category",
+        "text":"Scheme: pradhan mantri suraksha bima yojana (pmsby). State or coverage: all india. Category: accident insurance \/ financial security"
+    },
+    {
+        "chunk_id":"10_5",
+        "scheme":"pradhan mantri suraksha bima yojana (pmsby)",
+        "section":"application",
+        "text":"Scheme: pradhan mantri suraksha bima yojana (pmsby). Application process: enroll through participating bank\/post office with consent for auto-debit."
+    },
+    {
+        "chunk_id":"11_1",
+        "scheme":"pradhan mantri jeevan jyoti bima yojana (pmjjby)",
+        "section":"eligibility",
+        "text":"Scheme: pradhan mantri jeevan jyoti bima yojana (pmjjby). Eligibility: individual account holder of participating bank\/post office."
+    },
+    {
+        "chunk_id":"11_2",
+        "scheme":"pradhan mantri jeevan jyoti bima yojana (pmjjby)",
+        "section":"benefits",
+        "text":"Scheme: pradhan mantri jeevan jyoti bima yojana (pmjjby). Benefits: life cover of ₹2 lakh for death due to any cause annual premium ₹436."
+    },
+    {
+        "chunk_id":"11_3",
+        "scheme":"pradhan mantri jeevan jyoti bima yojana (pmjjby)",
+        "section":"age_income",
+        "text":"Scheme: pradhan mantri jeevan jyoti bima yojana (pmjjby). Age requirement: 18 50 years at entry. Income requirement: no income ceiling stated."
+    },
+    {
+        "chunk_id":"11_4",
+        "scheme":"pradhan mantri jeevan jyoti bima yojana (pmjjby)",
+        "section":"coverage_category",
+        "text":"Scheme: pradhan mantri jeevan jyoti bima yojana (pmjjby). State or coverage: all india. Category: life insurance \/ financial security"
+    },
+    {
+        "chunk_id":"11_5",
+        "scheme":"pradhan mantri jeevan jyoti bima yojana (pmjjby)",
+        "section":"application",
+        "text":"Scheme: pradhan mantri jeevan jyoti bima yojana (pmjjby). Application process: enroll through participating bank\/post office with auto-debit consent."
+    },
+    {
+        "chunk_id":"12_1",
+        "scheme":"sukanya samriddhi account (ssa)",
+        "section":"eligibility",
+        "text":"Scheme: sukanya samriddhi account (ssa). Eligibility: guardian can open account for a girl child below 10 years normally one account per girl child, subject to scheme rules."
+    },
+    {
+        "chunk_id":"12_2",
+        "scheme":"sukanya samriddhi account (ssa)",
+        "section":"benefits",
+        "text":"Scheme: sukanya samriddhi account (ssa). Benefits: government-backed savings account minimum ₹250 annual deposit, maximum ₹1.5 lakh\/year maturity after 21 years tax benefits under applicable rules."
+    },
+    {
+        "chunk_id":"12_3",
+        "scheme":"sukanya samriddhi account (ssa)",
+        "section":"age_income",
+        "text":"Scheme: sukanya samriddhi account (ssa). Age requirement: girl child below 10 years at account opening. Income requirement: no income ceiling stated."
+    },
+    {
+        "chunk_id":"12_4",
+        "scheme":"sukanya samriddhi account (ssa)",
+        "section":"coverage_category",
+        "text":"Scheme: sukanya samriddhi account (ssa). State or coverage: all india. Category: girl child \/ savings \/ education"
+    },
+    {
+        "chunk_id":"12_5",
+        "scheme":"sukanya samriddhi account (ssa)",
+        "section":"application",
+        "text":"Scheme: sukanya samriddhi account (ssa). Application process: open at post office or authorized bank guardian submits required identity, residence and birth documents."
+    },
+    {
+        "chunk_id":"13_1",
+        "scheme":"pradhan mantri matru vandana yojana (pmmvy)",
+        "section":"eligibility",
+        "text":"Scheme: pradhan mantri matru vandana yojana (pmmvy). Eligibility: eligible pregnant\/lactating women from specified socially\/economically disadvantaged groups also includes women meeting listed criteria such as sc\/st, bpl, pm-jay, e-shram, mgnrega or family income below ₹8 lakh\/year."
+    },
+    {
+        "chunk_id":"13_2",
+        "scheme":"pradhan mantri matru vandana yojana (pmmvy)",
+        "section":"benefits",
+        "text":"Scheme: pradhan mantri matru vandana yojana (pmmvy). Benefits: ₹5,000 for first child in two instalments ₹6,000 for second child when the second child is a girl, subject to conditions."
+    },
+    {
+        "chunk_id":"13_3",
+        "scheme":"pradhan mantri matru vandana yojana (pmmvy)",
+        "section":"age_income",
+        "text":"Scheme: pradhan mantri matru vandana yojana (pmmvy). Age requirement: pregnant\/lactating women no general age limit stated. Income requirement: one eligibility route is net family income below ₹8 lakh\/year."
+    },
+    {
+        "chunk_id":"13_4",
+        "scheme":"pradhan mantri matru vandana yojana (pmmvy)",
+        "section":"coverage_category",
+        "text":"Scheme: pradhan mantri matru vandana yojana (pmmvy). State or coverage: pan-india, except odisha and telangana currently not implementing pmmvy. Category: women \/ maternity \/ nutrition"
+    },
+    {
+        "chunk_id":"13_5",
+        "scheme":"pradhan mantri matru vandana yojana (pmmvy)",
+        "section":"application",
+        "text":"Scheme: pradhan mantri matru vandana yojana (pmmvy). Application process: eligible woman can apply through anganwadi\/asha worker or directly through pmmvy portal."
+    },
+    {
+        "chunk_id":"14_1",
+        "scheme":"pradhan mantri fasal bima yojana (pmfby)",
+        "section":"eligibility",
+        "text":"Scheme: pradhan mantri fasal bima yojana (pmfby). Eligibility: farmers growing notified crops in notified areas and seasons under the scheme exact crop\/area participation is notified by the state."
+    },
+    {
+        "chunk_id":"14_2",
+        "scheme":"pradhan mantri fasal bima yojana (pmfby)",
+        "section":"benefits",
+        "text":"Scheme: pradhan mantri fasal bima yojana (pmfby). Benefits: crop insurance against notified risks farmer premium capped at 2% for kharif food\/oilseed crops, 1.5% for rabi food\/oilseed crops and 5% for commercial\/horticultural crops."
+    },
+    {
+        "chunk_id":"14_3",
+        "scheme":"pradhan mantri fasal bima yojana (pmfby)",
+        "section":"age_income",
+        "text":"Scheme: pradhan mantri fasal bima yojana (pmfby). Age requirement: no fixed age limit stated. Income requirement: no income ceiling stated."
+    },
+    {
+        "chunk_id":"14_4",
+        "scheme":"pradhan mantri fasal bima yojana (pmfby)",
+        "section":"coverage_category",
+        "text":"Scheme: pradhan mantri fasal bima yojana (pmfby). State or coverage: participating states\/uts crop and area notified by state authorities. Category: farmers \/ crop insurance"
+    },
+    {
+        "chunk_id":"14_5",
+        "scheme":"pradhan mantri fasal bima yojana (pmfby)",
+        "section":"application",
+        "text":"Scheme: pradhan mantri fasal bima yojana (pmfby). Application process: apply through official pmfby portal, authorized agencies\/banks\/cscs as applicable."
+    },
+    {
+        "chunk_id":"15_1",
+        "scheme":"stand-up india",
+        "section":"eligibility",
+        "text":"Scheme: stand-up india. Eligibility: sc\/st and\/or women entrepreneurs aged above 18 setting up a greenfield enterprise loan available through scheduled commercial bank branches."
+    },
+    {
+        "chunk_id":"15_2",
+        "scheme":"stand-up india",
+        "section":"benefits",
+        "text":"Scheme: stand-up india. Benefits: bank loans from ₹10 lakh to ₹1 crore for eligible greenfield enterprises in manufacturing, services, trading or allied agriculture activities."
+    },
+    {
+        "chunk_id":"15_3",
+        "scheme":"stand-up india",
+        "section":"age_income",
+        "text":"Scheme: stand-up india. Age requirement: 18+ years. Income requirement: no universal income ceiling stated."
+    },
+    {
+        "chunk_id":"15_4",
+        "scheme":"stand-up india",
+        "section":"coverage_category",
+        "text":"Scheme: stand-up india. State or coverage: all india. Category: sc\/st \/ women entrepreneurs \/ business"
+    },
+    {
+        "chunk_id":"15_5",
+        "scheme":"stand-up india",
+        "section":"application",
+        "text":"Scheme: stand-up india. Application process: apply at a scheduled commercial bank branch, through stand-up india portal or via lead district manager."
+    }
+]
